@@ -1,7 +1,7 @@
 <?php
 class ControllerExtensionPaymentPayU extends Controller {
 
-    const VERSION = '3.3.0';
+    const VERSION = '3.3.2';
 
     private $error = array();
     private $settings = array();
