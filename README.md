@@ -70,6 +70,6 @@ Określa relacje pomiędzy statusami zamówienia w PayU a statusami zamówienia 
 [ext3]: http://php.net/manual/en/book.curl.php
 [ext4]: http://php.net/manual/en/book.hash.php
 [ext5]: https://github.com/PayU/plugin_opencart_3
-[ext6]: https://secure.payu.com/boarding/#/form&pk_campaign=Plugin-Github&pk_kwd=Opencart3
+[ext6]: https://www.payu.pl/oferta-handlowa
 
 <!--images:-->
