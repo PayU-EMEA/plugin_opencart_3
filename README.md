@@ -1,7 +1,7 @@
 # Moduł PayU dla OpenCart wersja 3.x
 ``Moduł jest wydawany na licencji GPL.``
 
-**Jeżeli masz jakiekolwiek pytania lub chcesz zgłosić błąd zapraszamy do kontaktu z naszym wsparciem pod adresem: tech@payu.pl.**
+**Jeżeli masz jakiekolwiek pytania lub chcesz zgłosić błąd zapraszamy do kontaktu z naszym [wsparciem technicznym][ext7].**
 
 * Jeżeli używasz OpenCart w wersji 2.3.x proszę skorzystać z [pluginu w wersji 3.2.x][ext1]
 * Jeżeli używasz OpenCart w wersji 2.0.x, 2.1.x lub 2.2.x proszę skorzystać z [pluginu w wersji 3.1.x][ext2]
@@ -71,5 +71,6 @@ Określa relacje pomiędzy statusami zamówienia w PayU a statusami zamówienia 
 [ext4]: http://php.net/manual/en/book.hash.php
 [ext5]: https://github.com/PayU/plugin_opencart_3
 [ext6]: https://www.payu.pl/oferta-handlowa
+[ext7]: https://www.payu.pl/pomoc
 
 <!--images:-->
